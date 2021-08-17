@@ -15,7 +15,7 @@ I'm a self taught programmer and artist, i don't have much to say, but a lot to 
 
 ---
 
-<div style="text-align: center; justify-content: center">
+<div style="display: flex; text-align: center; justify-content: center">
     <a href="#">
         <img src="https://komarev.com/ghpvc/?username=gann4&color=blue" alt="Gann4's viewcount">
     </a>
