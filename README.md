@@ -15,10 +15,8 @@ I'm a self taught programmer and artist, i don't have much to say, but a lot to 
 
 ---
 
-<div style="display: flex; text-align: center; justify-content: center">
+<div style="display: flex; text-align: center; justify-content: center; margin: 0px auto;">
     <a href="#">
         <img src="https://komarev.com/ghpvc/?username=gann4&color=blue" alt="Gann4's viewcount">
     </a>
 </div>
-
-<!-- ![](https://komarev.com/ghpvc/?username=gann4&color=blue) -->
