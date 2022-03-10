@@ -1,4 +1,4 @@
-### Hi! I'm Santiago - also known as [Gann4Life](http://gann4life.ga/about)
+### Hi! I'm Santiago - also known as [Gann4Life](https://gann4life.itch.io)
 
 I'm a self taught programmer and artist, i don't have much to say, but a lot to share :)
 
