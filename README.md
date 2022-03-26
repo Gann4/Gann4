@@ -1,6 +1,9 @@
-### Hi! I'm Santiago - also known as [Gann4Life](https://gann4life.itch.io)
+### Hi! I'm Santiago - also known as [Gann4Life](https://gann4life.itch.io).
 
-I'm a self taught programmer and artist, i don't have much to say, but a lot to share :)
+I'm an indie game developer focused and interested on programming.
+In 2015 i decided to learn on my own and i'm still progressing. Every year my knowledge is wider, i began with videogames and currently i'm on constant learning about web development and desktop apps.
+
+[CodersRank Profile](https://profile.codersrank.io/user/gann4life/)
 
 ---
 
