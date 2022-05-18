@@ -26,7 +26,7 @@ I don't have much to say, but a lot to share. :>
 
 ***Wanna code some time? :)***
 
-[![Codewars Badge](https://www.codewars.com/users/Gann4Life/badges/large)](https://www.codewars.com/users/Gann4Life)
+[![Codewars Badge](https://www.codewars.com/users/Gann4Life/badges/large)](https://www.codewars.com/r/ipj2ng)
 
 ![GIF](https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif)
   
