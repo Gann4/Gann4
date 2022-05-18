@@ -9,6 +9,7 @@ also known as <b>[Gann4Life](https://gann4life.itch.io)</b>. :)
 
 I'm an indie game developer heavily interested in digital technology.<br> 
 Currently taking the role as a programmer.
+
 I said it somewhere else... <br>
 I don't have much to say, but a lot to share. :>
 
