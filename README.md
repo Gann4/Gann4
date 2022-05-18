@@ -3,7 +3,10 @@
  
 <div align="center">
 
-# Welcome to my profile! My name is Santiago
+# Welcome to my profile! My name is Santiago #
+ 
+<img align="right" src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif"/>
+ 
 also known as <b>[Gann4Life](https://gann4life.itch.io)</b>. :)
   
 I'm an indie game developer heavily interested in digital technology.<br> 
@@ -45,7 +48,6 @@ I said it somewhere else... i don't have much to say, but a lot to share. :>
 
 ---
 
-![GIF](https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif)
 
 *Chilling to some beats . . .*  
 
