@@ -16,7 +16,7 @@ I don't have much to say, but a lot to share. :>
 
 <div align="center">
 
-![GitHub last commit](https://img.shields.io/github/last-commit/gann4life/gann4life?label=Last%20Ediit&style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/gann4life/gann4life?label=Last%20Edit&style=for-the-badge)
 ![Discord](https://img.shields.io/discord/521772451504455680?color=lightgrey&label=Discord%20Server&style=for-the-badge)
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCVv_eTgcWq3QNxWY_HFWBOw?label=YouTube%20Views&style=for-the-badge)    
 
