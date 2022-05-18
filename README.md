@@ -23,7 +23,7 @@ I said it somewhere else... i don't have much to say, but a lot to share. :>
 
 <div align="center">
 
-# <p name="socialmedia">Social media</p>
+# <p name="socialmedia">External links</p>
 
 ![Discord](https://img.shields.io/discord/521772451504455680?color=black&label=Discord&style=for-the-badge)
 [![CodersRank](https://img.shields.io/badge/CodersRank-%20-677?style=for-the-badge&logo=codersrank)](https://profile.codersrank.io/user/gann4life/)
