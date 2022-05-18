@@ -15,7 +15,7 @@ I said it somewhere else... i don't have much to say, but a lot to share. :>
 
 <div align="right">
  
-[![GitHub last commit](https://img.shields.io/github/last-commit/gann4life/gann4life?color=blue&label=Last%20Edit&style=flat)](#)
+[![GitHub last commit](https://img.shields.io/github/last-commit/gann4life/gann4life?color=blue&label=Last%20Edit&style=for-the-badge)](#)
  
 </div>
 
