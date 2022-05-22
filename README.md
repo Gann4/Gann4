@@ -30,6 +30,8 @@ I said it somewhere else... I don't have much to say, but a lot to share. :>
 
 <h1 name="stats">Stats</h1>
 
+![Contribution](https://activity-graph.herokuapp.com/graph?username=gann4life&theme=react-dark&hide_border=true&area=true)
+
 ![stats](https://github-readme-stats.vercel.app/api?username=gann4life&count_private=true&show_icons=true&theme=github_dark&hide_border=true)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gann4life&hide_border=true&hide=tcl,shaderlab,glsl,c%2B%2B,hlsl,hack,html,c,css,classic%20asp,xslt,batchfile&count_private=true&theme=github_dark&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
