@@ -7,8 +7,8 @@
  
 also known as <b>[Gann4Life](https://gann4life.itch.io)</b>. :)
   
-I'm an indie game developer heavily interested in digital technology.<br> 
-Currently taking the role as a programmer.
+I'm a small artist heavily interested in digital technology.<br> 
+Currently taking focus on the programming side.
 
 I said it somewhere else... I don't have much to say, but a lot to share. :>
 
