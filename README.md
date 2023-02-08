@@ -18,7 +18,6 @@ I said it somewhere else... I don't have much to say, but a lot to share. :>
 
 <h1 name="socialmedia">External links</h1>
  
-[![Discord](https://img.shields.io/discord/521772451504455680?color=black&label=Discord&style=for-the-badge)](#)
 [![CodersRank](https://img.shields.io/badge/CodersRank-%20-677?style=for-the-badge&logo=codersrank)](https://profile.codersrank.io/user/gann4life/)
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCVv_eTgcWq3QNxWY_HFWBOw?label=YouTube&style=for-the-badge&logo=youtube)](https://youtube.com/gann4lifeofficial)
     
