@@ -18,8 +18,9 @@ I said it somewhere else... I don't have much to say, but a lot to share. :>
 
 <h1 name="socialmedia">External links</h1>
  
-[![CodersRank](https://img.shields.io/badge/CodersRank-%20-677?style=for-the-badge&logo=codersrank)](https://profile.codersrank.io/user/gann4life/)
-[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCVv_eTgcWq3QNxWY_HFWBOw?label=YouTube&style=for-the-badge&logo=youtube)](https://youtube.com/gann4lifeofficial)
+[![CodersRank](https://img.shields.io/badge/Coders-Rank-677?style=for-the-badge&logo=codersrank)](https://profile.codersrank.io/user/gann4life/)
+[![itch.io](https://img.shields.io/badge/itch-io-red?style=for-the-badge)](https://gann4life.itch.io)
+
     
 ---
 
