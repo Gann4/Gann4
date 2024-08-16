@@ -2,8 +2,7 @@
 
 <img align="right" src="https://img.shields.io/github/last-commit/gann4life/gann4life?color=blue&label=Last%20Edit&style=for-the-badge"/>
 
-Who am I? The answer is still being built.<br>
-Always creating something somewhere. :)
+I'm a game developer mainly covering programming side by building flexible and solid systems for both 3D and 2D games.
 
 <div align="center">
    <img src="https://myreadme.vercel.app/api/embed/gann4life?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
